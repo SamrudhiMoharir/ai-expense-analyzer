@@ -1,0 +1,1001 @@
+Description,Category
+Breakfast at roadside stall,food
+Office canteen lunch,food
+Home cooked dinner groceries,food
+Evening samosa snack,food
+Cold coffee at cafe,food
+Fresh fruit basket,food
+Weekly vegetable market,food
+Milk packet purchase,food
+Bakery bread and buns,food
+Chocolate ice cream,food
+Protein bar,food
+Family restaurant buffet,food
+Online biryani order,food
+Packed tiffin service,food
+Orange juice cup,food
+Sweet laddu box,food
+Cashew nut packet,food
+Midnight maggi,food
+Domino's pizza order,food
+Green salad bowl,food
+Paneer curry ingredients,food
+Fresh coconut water,food
+South Indian dosa breakfast,food
+Chinese noodles plate,food
+Burger combo meal,food
+Mango milkshake,food
+Curd and buttermilk,food
+Street corn cup,food
+Chocolate pastry,food
+Dry cake rusk,food
+Boiled egg snacks,food
+Chicken roll,food
+Fish fry takeaway,food
+Rice and dal groceries,food
+Masala tea stall,food
+Cold drink bottle,food
+Energy drink can,food
+Fresh bread loaf,food
+Organic honey jar,food
+Peanut chikki,food
+Sprouts mix bowl,food
+Idli sambar plate,food
+Poha breakfast,food
+Upma packet,food
+Fruit juice tetra pack,food
+Protein powder refill,food
+Curd rice lunch,food
+Veg thali order,food
+Non veg thali,food
+Butter milk pouch,food
+Pomegranate juice,food
+Evening pakoda,food
+Sandwich meal,food
+Cheese block purchase,food
+Frozen momos,food
+Ice gola treat,food
+Festival sweets pack,food
+City bus pass,transport
+Intercity train fare,transport
+Metro recharge card,transport
+Auto ride payment,transport
+Ola cab ride,transport
+Two wheeler petrol,transport
+Car diesel refill,transport
+Expressway toll booth,transport
+Shopping mall parking,transport
+Bike periodic service,transport
+Foam car wash,transport
+Tube puncture fix,transport
+Engine oil service,transport
+Riding gloves purchase,transport
+Scooter seat cover,transport
+Monthly travel card,transport
+Highway fuel stop,transport
+Vehicle pollution check,transport
+EV charging payment,transport
+Scooter brake repair,transport
+Car alignment service,transport
+Air pressure refill,transport
+Windshield washer fluid,transport
+Coolant top up,transport
+Motorcycle chain lube,transport
+Car battery jumpstart,transport
+Bike clutch repair,transport
+Cab waiting charges,transport
+Fuel additive bottle,transport
+Truck parking fee,transport
+Bus stand entry,transport
+Cycle repair,transport
+Taxi airport drop,transport
+Bike tyre change,transport
+Car dent repair,transport
+Scooter bulb replacement,transport
+Insurance inspection fee,transport
+Bike wash polish,transport
+Car service labor,transport
+Long drive fuel expense,transport
+Public transport fine,transport
+Metro locker charges,transport
+Valet parking tip,transport
+Car steering repair,transport
+Two wheeler insurance renewal,transport
+Helmet visor replacement,transport
+Scooter mirror purchase,transport
+Bike towing charges,transport
+Car interior cleaning,transport
+Bike seat repair,transport
+Fuel can purchase,transport
+Transport permit fee,transport
+Rental bike charges,transport
+Scooter stand replacement,transport
+Car AC service,transport
+Wheel balancing,transport
+Electricity unit bill,bills
+Water tanker charges,bills
+Prepaid mobile topup,bills
+Fiber internet plan,bills
+Cooking gas cylinder,bills
+Broadband modem rent,bills
+Monthly house rent,bills
+Apartment sinking fund,bills
+Cable TV recharge,bills
+Online storage subscription,bills
+Term insurance payment,bills
+Outstanding credit card dues,bills
+Vehicle loan EMI,bills
+Daily newspaper bill,bills
+Podcast premium plan,bills
+Antivirus software license,bills
+Website domain renewal,bills
+Security guard salary share,bills
+Municipal waste tax,bills
+RO filter maintenance,bills
+Solar panel cleaning,bills
+Mobile postpaid invoice,bills
+DTH annual pack,bills
+Home painting installment,bills
+Electric meter repair,bills
+Internet installation fee,bills
+Property tax installment,bills
+Lift maintenance share,bills
+Electric appliance warranty,bills
+Online meeting software,bills
+Smart home service bill,bills
+Water purifier filter,bills
+Electric kettle repair,bills
+Phone insurance plan,bills
+TV repair bill,bills
+Generator diesel bill,bills
+Common area lighting bill,bills
+Society festival fund,bills
+House wiring repair,bills
+Gas pipeline inspection,bills
+Fire safety renewal,bills
+Parking maintenance,bills
+Internet speed upgrade,bills
+Cooling system service,bills
+Air conditioner service,bills
+Electric fan repair,bills
+Smartwatch connectivity plan,bills
+Home security app,bills
+Digital newspaper plan,bills
+Electric stove repair,bills
+Router replacement fee,bills
+Electric inspection,bills
+Common water motor bill,bills
+House pest control,bills
+Monthly sanitation bill,bills
+WiFi mesh system,bills
+University admission fee,education
+Competitive exam form,education
+AI certification course,education
+Communication skills training,education
+Reading room membership,education
+Engineering reference book,education
+College stationery kit,education
+Scientific calculator,education
+Language learning app,education
+Aptitude test pack,education
+Industry workshop,education
+Management seminar,education
+Prototype development material,education
+Chemistry lab charges,education
+Private tutor payment,education
+Summer internship program,education
+Placement coaching batch,education
+Degree certificate lamination,education
+Professional webinar access,education
+Exam portal login,education
+Online mock interview,education
+Graphic design course,education
+Machine learning bootcamp,education
+Public speaking workshop,education
+Business case study book,education
+Digital notes subscription,education
+Robotics kit purchase,education
+Thesis printing,education
+College ID replacement,education
+Exam hall ticket fee,education
+Skill assessment test,education
+Abacus training,education
+Financial modeling course,education
+Data analytics training,education
+UI UX workshop,education
+Exam answer sheet,education
+Project binding cost,education
+Coding contest registration,education
+Language proficiency exam,education
+Video editing course,education
+Electronics practical fee,education
+Whiteboard and markers,education
+Research journal access,education
+Entrance exam guide,education
+Education loan document,education
+College alumni fund,education
+Cloud lab subscription,education
+Training certificate fee,education
+Career counseling session,education
+Resume review service,education
+Study lamp purchase,education
+Student conference pass,education
+Group study room rent,education
+Academic software tool,education
+Online library plan,education
+Learning management system,education
+Formal trousers purchase,shopping
+Sports shoes order,shopping
+Luxury wristwatch,shopping
+Phone tempered glass,shopping
+Wireless mouse,shopping
+College travel bag,shopping
+Branded wallet,shopping
+Anniversary gift item,shopping
+Skincare product set,shopping
+Hair grooming kit,shopping
+Online clothing order,shopping
+Traditional dress shopping,shopping
+LED decorative lamps,shopping
+Nonstick cookware,shopping
+Desk lamp,shopping
+Cotton bedsheet set,shopping
+Window curtains,shopping
+Leather winter coat,shopping
+Badminton racket,shopping
+Printer paper bundle,shopping
+Smartphone charger,shopping
+Bluetooth earphones,shopping
+Laptop cooling pad,shopping
+Sunglasses purchase,shopping
+Travel suitcase,shopping
+Office desk organizer,shopping
+Perfume bottle,shopping
+Footwear cleaning kit,shopping
+Kitchen storage boxes,shopping
+Room wall clock,shopping
+Water bottle steel,shopping
+Yoga mat,shopping
+Door mat purchase,shopping
+Power extension board,shopping
+Bedside table,shopping
+Plastic storage rack,shopping
+Helmet gloves pair,shopping
+Wallet chain,shopping
+Mobile tripod stand,shopping
+Selfie ring light,shopping
+Gaming keyboard,shopping
+Phone repair toolkit,shopping
+Watch strap replacement,shopping
+Hair dryer machine,shopping
+Electric kettle,shopping
+Shower curtain,shopping
+Mirror wall decor,shopping
+Coffee mug set,shopping
+Study chair,shopping
+Laptop backpack,shopping
+Table calendar,shopping
+Emergency torch light,shopping
+Sports water bottle,shopping
+Bluetooth speaker,shopping
+Clothing iron box,shopping
+Foot massage roller,shopping
+Key holder stand,shopping
+Room aroma diffuser,shopping
+Electric trimmer,shopping
+Wall shelves,shopping
+Multiplex movie booking,entertainment
+Rock music concert,entertainment
+PC game purchase,entertainment
+Water park ticket,entertainment
+Streaming service pack,entertainment
+Bowling alley session,entertainment
+Theatre popcorn snacks,entertainment
+Zoo entry pass,entertainment
+Navratri event ticket,entertainment
+Comedy club night,entertainment
+Historical museum visit,entertainment
+Painting exhibition,entertainment
+Online gaming coins,entertainment
+Virtual reality booth,entertainment
+Hill station picnic,entertainment
+Birthday party contribution,entertainment
+Boat ride charges,entertainment
+Cricket match screening,entertainment
+Instant photo booth,entertainment
+Kids trampoline park,entertainment
+Amusement arcade tokens,entertainment
+Photography walk ticket,entertainment
+Night club entry,entertainment
+Dance workshop,entertainment
+Music festival wristband,entertainment
+Magic show entry,entertainment
+Escape room challenge,entertainment
+Laser tag game,entertainment
+Board game cafe,entertainment
+Street performance tip,entertainment
+Online movie rental,entertainment
+Drama theatre play,entertainment
+Pottery fun class,entertainment
+Food fest entry,entertainment
+Carnival ride ticket,entertainment
+Cultural fest pass,entertainment
+Gaming lounge time,entertainment
+Stand-up streaming show,entertainment
+Planetarium visit,entertainment
+Aquarium tour ticket,entertainment
+Photography exhibition,entertainment
+Comedy fest pass,entertainment
+Drone show ticket,entertainment
+Treasure hunt game,entertainment
+Holiday resort activity,entertainment
+Snow world entry,entertainment
+Art therapy class,entertainment
+Beach sports rental,entertainment
+Live orchestra ticket,entertainment
+Adventure park ride,entertainment
+Virtual museum tour,entertainment
+Cooking fun class,entertainment
+General physician visit,medical
+Cough syrup purchase,medical
+Thyroid blood test,medical
+Annual medical screening,medical
+Root canal treatment,medical
+Vision test charges,medical
+Contact lens purchase,medical
+Bandage and antiseptic,medical
+Omega 3 capsules,medical
+Rehab therapy visit,medical
+Flu vaccination,medical
+Specialist hospital check,medical
+Hair fall treatment,medical
+Homeopathic pills,medical
+Herbal tonic bottle,medical
+MRI scan bill,medical
+Portable thermometer,medical
+Blood pressure monitor,medical
+Stitch removal visit,medical
+Hearing examination,medical
+Orthopedic consultation,medical
+Skin allergy cream,medical
+Diabetes monitoring strips,medical
+Nebulizer machine,medical
+Physician follow up,medical
+Eye drops bottle,medical
+Multivitamin pack,medical
+Physio equipment band,medical
+Covid booster shot,medical
+Pulse oximeter,medical
+ENT consultation,medical
+Back pain therapy,medical
+Ultrasound scan,medical
+Medical report printing,medical
+Immunity booster syrup,medical
+Pain relief spray,medical
+Medical gloves pack,medical
+Surgical mask box,medical
+Insulin injection,medical
+Cholesterol test,medical
+Body mass analysis,medical
+Dental braces check,medical
+Sleep clinic test,medical
+Foot orthotics,medical
+Stress therapy session,medical
+Ayurvedic massage,medical
+Minor surgery dressing,medical
+Heart rate tracker,medical
+Neck support belt,medical
+Hospital registration fee,medical
+Medical waste disposal,medical
+Physician home visit,medical
+Office document photocopy,miscellaneous
+Bulk print job,miscellaneous
+Speed post courier,miscellaneous
+Visa photo shoot,miscellaneous
+Stamp paper charges,miscellaneous
+Temple charity fund,miscellaneous
+Festival decoration material,miscellaneous
+Room deep cleaning,miscellaneous
+Duplicate house key,miscellaneous
+Door lock fixing,miscellaneous
+Unexpected small purchase,miscellaneous
+Lost card reissue,miscellaneous
+Local event donation,miscellaneous
+Club annual fee,miscellaneous
+Hardware random item,miscellaneous
+Public washroom fee,miscellaneous
+Charity drive support,miscellaneous
+Tool sharpening,miscellaneous
+Housing society notice print,miscellaneous
+Umbrella repair,miscellaneous
+Phone screen cleaning,miscellaneous
+Shoelace replacement,miscellaneous
+Public locker rental,miscellaneous
+Local guide tip,miscellaneous
+Roadside assistance tip,miscellaneous
+Poster printing,miscellaneous
+Festival contribution,miscellaneous
+Event badge making,miscellaneous
+Local vendor payment,miscellaneous
+Community lunch fund,miscellaneous
+Room pest control,miscellaneous
+Electrical tape buy,miscellaneous
+Water can deposit,miscellaneous
+ID lanyard purchase,miscellaneous
+Office chair repair,miscellaneous
+Name plate making,miscellaneous
+Plastic file folders,miscellaneous
+Local shop credit settlement,miscellaneous
+Packing rope purchase,miscellaneous
+Balloon decoration,miscellaneous
+Garbage bag roll,miscellaneous
+Shoe polish service,miscellaneous
+Dry cleaning extra,miscellaneous
+Notice frame purchase,miscellaneous
+Hand gloves cotton,miscellaneous
+Temporary storage box,miscellaneous
+Courier packaging fee,miscellaneous
+Travel document lamination,miscellaneous
+Lost ticket replacement,miscellaneous
+Donation receipt charges,miscellaneous
+Event backstage pass,miscellaneous
+Name stamp making,miscellaneous
+Monthly family charges,bills
+daily store purchase,shopping
+weekly exam related fees,education
+weekly health checkup,medical
+office health checkup,medical
+daily tickets,entertainment
+monthly household expense,miscellaneous
+daily utility bill,bills
+Purchase of regular ingredients,food
+Fuel expense for office trip,transport
+Fuel expense for daily trip,transport
+Fuel expense for personal trip,transport
+Weekend monthly activity,entertainment
+home exam related fees,education
+weekly learning subscription,education
+weekend learning subscription,education
+Purchase of weekly ingredients,food
+Purchase of home study material,education
+personal commute expense,transport
+regular commute expense,transport
+monthly entertainment expense,entertainment
+Online order for family,shopping
+Fuel expense for weekend trip,transport
+routine miscellaneous cost,miscellaneous
+home medical expense,medical
+Groceries from office market,food
+Dinner at family restaurant,food
+weekly utility bill,bills
+weekly course fees,education
+regular utility bill,bills
+Weekend local activity,entertainment
+home consultation charges,medical
+local entertainment expense,entertainment
+Monthly regular charges,bills
+daily commute expense,transport
+monthly learning subscription,education
+office tickets,entertainment
+Subscription to regular platform,entertainment
+personal miscellaneous cost,miscellaneous
+Purchase of weekend study material,education
+home personal expense,miscellaneous
+regular shopping,shopping
+home tickets,entertainment
+Subscription for family service,bills
+Purchase of regular study material,education
+office course fees,education
+personal tickets,entertainment
+office utility bill,bills
+daily learning subscription,education
+Purchase of weekend medicines,medical
+Online order for monthly,shopping
+office miscellaneous cost,miscellaneous
+office shopping,shopping
+Purchase of home items,shopping
+online transport charges,transport
+Monthly home charges,bills
+weekend store purchase,shopping
+routine bill payment,bills
+Weekend family activity,entertainment
+Purchase of local medicines,medical
+Dinner at home restaurant,food
+Weekend regular activity,entertainment
+evening store purchase,shopping
+Travel via personal,transport
+personal consultation charges,medical
+Purchase of monthly medicines,medical
+office medical expense,medical
+Weekend home activity,entertainment
+office store purchase,shopping
+family meal at family,food
+Purchase of daily ingredients,food
+Weekend office activity,entertainment
+weekly tickets,entertainment
+evening personal expense,miscellaneous
+Online order for daily,shopping
+Snacks from routine bakery,food
+personal household expense,miscellaneous
+office meal at weekend,food
+weekly service charges,miscellaneous
+online miscellaneous cost,miscellaneous
+online learning subscription,education
+local shopping,shopping
+local ride fare,transport
+evening household expense,miscellaneous
+routine transport charges,transport
+Travel via local,transport
+daily entertainment expense,entertainment
+Purchase of daily study material,education
+evening learning subscription,education
+home service charges,miscellaneous
+weekend health checkup,medical
+Purchase of regular medicines,medical
+evening tickets,entertainment
+regular health checkup,medical
+Subscription for personal service,bills
+evening service charges,miscellaneous
+Purchase of local items,shopping
+routine learning subscription,education
+Subscription to monthly platform,entertainment
+monthly service charges,miscellaneous
+daily exam related fees,education
+Purchase of weekend ingredients,food
+routine utility bill,bills
+routine course fees,education
+Subscription for office service,bills
+routine household expense,miscellaneous
+Snacks from weekly bakery,food
+Purchase of weekly medicines,medical
+Dinner at monthly restaurant,food
+home learning subscription,education
+office personal expense,miscellaneous
+home household expense,miscellaneous
+family service charges,miscellaneous
+local transport charges,transport
+local consultation charges,medical
+online utility bill,bills
+Travel via weekend,transport
+routine personal expense,miscellaneous
+Travel via routine,transport
+personal ride fare,transport
+Online order for online,shopping
+weekend miscellaneous cost,miscellaneous
+family utility bill,bills
+office meal at online,food
+family household expense,miscellaneous
+Groceries from local market,food
+Subscription to home platform,entertainment
+Groceries from home market,food
+daily service charges,miscellaneous
+Monthly online charges,bills
+weekend transport charges,transport
+weekend consultation charges,medical
+Subscription for local service,bills
+Fuel expense for weekly trip,transport
+home health checkup,medical
+Monthly weekend charges,bills
+Online order for regular,shopping
+Travel via regular,transport
+Subscription to evening platform,entertainment
+personal store purchase,shopping
+Subscription to online platform,entertainment
+Online order for routine,shopping
+personal medical expense,medical
+daily health checkup,medical
+local household expense,miscellaneous
+Weekend daily activity,entertainment
+Online order for office,shopping
+weekend service charges,miscellaneous
+family medical expense,medical
+Weekend online activity,entertainment
+Purchase of family medicines,medical
+evening miscellaneous cost,miscellaneous
+weekly transport charges,transport
+weekly medical expense,medical
+routine consultation charges,medical
+Purchase of family study material,education
+Snacks from home bakery,food
+Purchase of personal medicines,medical
+Groceries from weekly market,food
+monthly store purchase,shopping
+weekly personal expense,miscellaneous
+office exam related fees,education
+family course fees,education
+Subscription to office platform,entertainment
+Purchase of monthly study material,education
+evening exam related fees,education
+local exam related fees,education
+personal transport charges,transport
+Subscription for weekend service,bills
+weekend bill payment,bills
+Groceries from daily market,food
+evening course fees,education
+office commute expense,transport
+Fuel expense for local trip,transport
+Monthly routine charges,bills
+online bill payment,bills
+Snacks from family bakery,food
+monthly health checkup,medical
+family exam related fees,education
+Purchase of personal ingredients,food
+daily course fees,education
+local course fees,education
+Purchase of local ingredients,food
+Monthly personal charges,bills
+office service charges,miscellaneous
+Snacks from local bakery,food
+routine store purchase,shopping
+Purchase of evening study material,education
+Online order for evening,shopping
+home meal at regular,food
+Dinner at weekend restaurant,food
+regular transport charges,transport
+Purchase of online medicines,medical
+online service charges,miscellaneous
+regular bill payment,bills
+local bill payment,bills
+personal shopping,shopping
+evening consultation charges,medical
+online commute expense,transport
+Purchase of weekend items,shopping
+weekend meal at weekend,food
+home miscellaneous cost,miscellaneous
+online medical expense,medical
+family health checkup,medical
+Subscription for weekly service,bills
+Purchase of office ingredients,food
+evening entertainment expense,entertainment
+evening shopping,shopping
+monthly consultation charges,medical
+Subscription for evening service,bills
+weekly commute expense,transport
+Purchase of routine items,shopping
+Online order for local,shopping
+Fuel expense for family trip,transport
+Purchase of office medicines,medical
+weekly consultation charges,medical
+Purchase of evening items,shopping
+regular course fees,education
+Online order for weekly,shopping
+personal exam related fees,education
+personal entertainment expense,entertainment
+Weekend routine activity,entertainment
+Online order for weekend,shopping
+Travel via online,transport
+online household expense,miscellaneous
+online tickets,entertainment
+family learning subscription,education
+office meal at evening,food
+Purchase of weekly study material,education
+local service charges,miscellaneous
+Travel via home,transport
+evening meal at weekend,food
+family personal expense,miscellaneous
+Subscription for regular service,bills
+Groceries from regular market,food
+Groceries from online market,food
+monthly medical expense,medical
+Snacks from monthly bakery,food
+Subscription to routine platform,entertainment
+weekly store purchase,shopping
+Subscription to weekend platform,entertainment
+Snacks from regular bakery,food
+routine medical expense,medical
+office entertainment expense,entertainment
+monthly bill payment,bills
+family tickets,entertainment
+Purchase of daily items,shopping
+personal learning subscription,education
+family transport charges,transport
+routine shopping,shopping
+Purchase of office study material,education
+home bill payment,bills
+monthly course fees,education
+home utility bill,bills
+Purchase of online items,shopping
+online health checkup,medical
+Subscription to daily platform,entertainment
+Subscription for daily service,bills
+regular ride fare,transport
+evening utility bill,bills
+Subscription for monthly service,bills
+online exam related fees,education
+local store purchase,shopping
+Purchase of family items,shopping
+Purchase of evening medicines,medical
+weekly meal at weekly,food
+family consultation charges,medical
+monthly ride fare,transport
+online consultation charges,medical
+local health checkup,medical
+monthly shopping,shopping
+weekend utility bill,bills
+home course fees,education
+home shopping,shopping
+office learning subscription,education
+office transport charges,transport
+routine commute expense,transport
+regular household expense,miscellaneous
+daily household expense,miscellaneous
+local personal expense,miscellaneous
+Snacks from daily bakery,food
+Groceries from evening market,food
+local tickets,entertainment
+Purchase of office items,shopping
+local miscellaneous cost,miscellaneous
+Monthly daily charges,bills
+evening bill payment,bills
+local medical expense,medical
+Subscription for home service,bills
+routine exam related fees,education
+Purchase of home ingredients,food
+regular learning subscription,education
+weekly meal at daily,food
+personal bill payment,bills
+Subscription for routine service,bills
+regular medical expense,medical
+evening medical expense,medical
+regular personal expense,miscellaneous
+weekly entertainment expense,entertainment
+weekend medical expense,medical
+regular tickets,entertainment
+weekend household expense,miscellaneous
+regular miscellaneous cost,miscellaneous
+Fuel expense for routine trip,transport
+family shopping,shopping
+Purchase of local study material,education
+weekend exam related fees,education
+Snacks from online bakery,food
+Travel via family,transport
+daily consultation charges,medical
+daily personal expense,miscellaneous
+Monthly local charges,bills
+regular store purchase,shopping
+daily shopping,shopping
+Purchase of monthly items,shopping
+Purchase of home medicines,medical
+Weekend personal activity,entertainment
+weekend personal expense,miscellaneous
+regular entertainment expense,entertainment
+online meal at online,food
+Fuel expense for evening trip,transport
+Dinner at weekly restaurant,food
+weekly ride fare,transport
+monthly transport charges,transport
+family meal at office,food
+Groceries from routine market,food
+Fuel expense for regular trip,transport
+Travel via daily,transport
+routine tickets,entertainment
+routine meal at regular,food
+monthly commute expense,transport
+daily bill payment,bills
+routine ride fare,transport
+Snacks from office bakery,food
+Travel via monthly,transport
+monthly utility bill,bills
+regular consultation charges,medical
+Subscription to weekly platform,entertainment
+home transport charges,transport
+personal course fees,education
+family store purchase,shopping
+Fuel expense for online trip,transport
+monthly miscellaneous cost,miscellaneous
+routine entertainment expense,entertainment
+online meal at weekly,food
+personal utility bill,bills
+office household expense,miscellaneous
+Dinner at routine restaurant,food
+routine health checkup,medical
+Weekend weekly activity,entertainment
+Dinner at personal restaurant,food
+local utility bill,bills
+weekly bill payment,bills
+personal personal expense,miscellaneous
+Subscription to local platform,entertainment
+evening health checkup,medical
+family commute expense,transport
+Monthly monthly charges,bills
+online personal expense,miscellaneous
+Weekend weekend activity,entertainment
+monthly personal expense,miscellaneous
+daily medical expense,medical
+evening transport charges,transport
+family bill payment,bills
+monthly meal at routine,food
+local meal at evening,food
+Purchase of personal items,shopping
+Travel via weekly,transport
+personal health checkup,medical
+regular exam related fees,education
+home store purchase,shopping
+Travel via evening,transport
+routine meal at weekly,food
+Purchase of personal study material,education
+Purchase of family ingredients,food
+Monthly office charges,bills
+monthly exam related fees,education
+office ride fare,transport
+Dinner at office restaurant,food
+Subscription to family platform,entertainment
+Monthly weekly charges,bills
+daily transport charges,transport
+Purchase of routine medicines,medical
+Online order for personal,shopping
+monthly tickets,entertainment
+Snacks from personal bakery,food
+Fuel expense for monthly trip,transport
+online shopping,shopping
+weekend commute expense,transport
+Weekend evening activity,entertainment
+Travel via office,transport
+home entertainment expense,entertainment
+daily meal at routine,food
+Purchase of routine ingredients,food
+personal service charges,miscellaneous
+weekend entertainment expense,entertainment
+Purchase of regular items,shopping
+Groceries from monthly market,food
+Fuel expense for home trip,transport
+Online order for home,shopping
+regular service charges,miscellaneous
+Groceries from weekend market,food
+daily meal at family,food
+office meal at weekly,food
+family ride fare,transport
+office meal at routine,food
+weekend ride fare,transport
+evening meal at daily,food
+Purchase of online ingredients,food
+local commute expense,transport
+Monthly evening charges,bills
+daily miscellaneous cost,miscellaneous
+weekly household expense,miscellaneous
+online entertainment expense,entertainment
+online course fees,education
+local meal at home,food
+family meal at personal,food
+home commute expense,transport
+office consultation charges,medical
+local learning subscription,education
+Subscription to personal platform,entertainment
+family miscellaneous cost,miscellaneous
+evening commute expense,transport
+weekly shopping,shopping
+personal meal at daily,food
+Dinner at evening restaurant,food
+weekend tickets,entertainment
+routine service charges,miscellaneous
+Groceries from family market,food
+office bill payment,bills
+local meal at weekend,food
+online meal at routine,food
+office meal at office,food
+Snacks from evening bakery,food
+Purchase of weekly items,shopping
+Dinner at daily restaurant,food
+monthly meal at online,food
+Purchase of evening ingredients,food
+home ride fare,transport
+Purchase of routine study material,education
+Snacks from weekend bakery,food
+regular meal at routine,food
+Dinner at local restaurant,food
+Dinner at online restaurant,food
+Dinner at regular restaurant,food
+Subscription for online service,bills
+family meal at monthly,food
+Groceries from personal market,food
+family entertainment expense,entertainment
+personal meal at evening,food
+weekend meal at routine,food
+Purchase of daily medicines,medical
+Purchase of monthly ingredients,food
+weekend meal at monthly,food
+daily ride fare,transport
+weekend course fees,education
+Purchase of online study material,education
+weekly miscellaneous cost,miscellaneous
+online store purchase,shopping
+monthly meal at monthly,food
+weekly meal at office,food
+weekly meal at personal,food
+local meal at family,food
+evening meal at weekly,food
+weekend meal at personal,food
+weekend meal at daily,food
+personal meal at weekend,food
+weekend shopping,shopping
+home meal at personal,food
+online ride fare,transport
+regular meal at online,food
+evening ride fare,transport
+daily meal at office,food
+evening meal at personal,food
+daily meal at personal,food
+regular meal at weekend,food
+weekend meal at local,food
+personal meal at regular,food
+online meal at local,food
+daily meal at monthly,food
+local meal at online,food
+online meal at monthly,food
+personal meal at family,food
+family meal at evening,food
+online meal at personal,food
+routine meal at office,food
+home meal at online,food
+online meal at daily,food
+weekend meal at weekly,food
+local meal at weekly,food
+personal meal at monthly,food
+monthly meal at regular,food
+home meal at office,food
+family meal at local,food
+home meal at home,food
+weekend meal at family,food
+monthly meal at weekly,food
+family meal at regular,food
+office meal at personal,food
+routine meal at online,food
+weekly meal at family,food
+weekly meal at weekend,food
+personal meal at personal,food
+monthly meal at home,food
+daily meal at online,food
+daily meal at local,food
+regular meal at evening,food
+personal meal at routine,food
+family meal at weekly,food
+personal meal at home,food
+routine meal at weekend,food
+evening meal at office,food
+office meal at daily,food
+regular meal at daily,food
+weekend meal at evening,food
+online meal at home,food
+evening meal at monthly,food
+weekend meal at regular,food
+personal meal at local,food
+monthly meal at family,food
+monthly meal at personal,food
+office meal at family,food
+monthly meal at daily,food
+weekend meal at office,food
+daily meal at weekly,food
+regular meal at home,food
+regular meal at weekly,food
+regular meal at local,food
+home meal at monthly,food
+local meal at monthly,food
+family meal at online,food
+online meal at regular,food
+weekly meal at regular,food
+evening meal at regular,food
+local meal at regular,food
+weekend meal at online,food
+evening meal at online,food
+local meal at office,food
+regular meal at monthly,food
+routine meal at daily,food
+routine meal at family,food
+personal meal at weekly,food
+home meal at routine,food
+online meal at family,food
+weekly meal at routine,food
+regular meal at personal,food
+monthly meal at local,food
+local meal at daily,food
+evening meal at home,food
+family meal at weekend,food
+home meal at daily,food
+home meal at family,food
+home meal at local,food
+personal meal at online,food
+local meal at personal,food
+monthly meal at evening,food
+weekly meal at home,food
+home meal at weekend,food
+daily meal at home,food
