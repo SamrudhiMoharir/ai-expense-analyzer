@@ -37,5 +37,13 @@ def summary():
     summary = expense_service.monthly_summary(year, month)
     return jsonify(summary)
 
+@app.route("/saving-suggestion", methods=["GET"])
+def suggestion():
+    year = int(request.args.get("year"))
+    month = int(request.args.get("month"))
+
+    msg = expense_service.saving_suggestion(year, month)
+    return jsonify({"suggestion": msg})
+
 if __name__ == "__main__":
     app.run(debug=True)
