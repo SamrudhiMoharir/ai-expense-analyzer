@@ -1,0 +1,246 @@
+description,category
+Ordered lunch from a local cafe,Food
+Ordered lunch from a restaurant,Food
+Ordered lunch from a food court,Food
+Ordered lunch from a office cafeteria,Food
+Ordered dinner from a local cafe,Food
+Ordered dinner from a restaurant,Food
+Ordered dinner from a food court,Food
+Ordered dinner from a office cafeteria,Food
+Ordered breakfast from a local cafe,Food
+Ordered breakfast from a restaurant,Food
+Ordered breakfast from a food court,Food
+Ordered breakfast from a office cafeteria,Food
+Ordered snacks from a local cafe,Food
+Ordered snacks from a restaurant,Food
+Ordered snacks from a food court,Food
+Ordered snacks from a office cafeteria,Food
+Had lunch at local cafe,Food
+Had lunch at restaurant,Food
+Had lunch at food court,Food
+Had lunch at office cafeteria,Food
+Had dinner at local cafe,Food
+Had dinner at restaurant,Food
+Had dinner at food court,Food
+Had dinner at office cafeteria,Food
+Had breakfast at local cafe,Food
+Had breakfast at restaurant,Food
+Had breakfast at food court,Food
+Had breakfast at office cafeteria,Food
+Had snacks at local cafe,Food
+Had snacks at restaurant,Food
+Had snacks at food court,Food
+Had snacks at office cafeteria,Food
+Bought snacks during office break,Food
+Bought snacks during travel,Food
+Bought snacks during late night,Food
+Bought snacks during weekend,Food
+Bought street food during office break,Food
+Bought street food during travel,Food
+Bought street food during late night,Food
+Bought street food during weekend,Food
+Bought packed meal during office break,Food
+Bought packed meal during travel,Food
+Bought packed meal during late night,Food
+Bought packed meal during weekend,Food
+Bought refreshments during office break,Food
+Booked a bus to office,Transport
+Booked a bus to home,Transport
+Booked a bus to airport,Transport
+Booked a bus to station,Transport
+Booked a cab to office,Transport
+Booked a cab to home,Transport
+Booked a cab to airport,Transport
+Booked a cab to station,Transport
+Booked a metro to office,Transport
+Booked a metro to home,Transport
+Booked a metro to airport,Transport
+Booked a metro to station,Transport
+Booked a train to office,Transport
+Booked a train to home,Transport
+Booked a train to airport,Transport
+Booked a train to station,Transport
+Paid fare for bus during office break,Transport
+Paid fare for bus during travel,Transport
+Paid fare for bus during late night,Transport
+Paid fare for bus during weekend,Transport
+Paid fare for cab during office break,Transport
+Paid fare for cab during travel,Transport
+Paid fare for cab during late night,Transport
+Paid fare for cab during weekend,Transport
+Paid fare for metro during office break,Transport
+Paid fare for metro during travel,Transport
+Paid fare for metro during late night,Transport
+Paid fare for metro during weekend,Transport
+Paid fare for train during office break,Transport
+Paid fare for train during travel,Transport
+Paid fare for train during late night,Transport
+Paid fare for train during weekend,Transport
+Used bus for daily commute,Transport
+Used cab for daily commute,Transport
+Used metro for daily commute,Transport
+Used train for daily commute,Transport
+Travelled by bus for work,Transport
+Travelled by bus for travel,Transport
+Travelled by bus for personal errand,Transport
+Travelled by cab for work,Transport
+Travelled by cab for travel,Transport
+Travelled by cab for personal errand,Transport
+Travelled by metro for work,Transport
+Travelled by metro for travel,Transport
+Travelled by metro for personal errand,Transport
+Paid electricity bill for the month,Bills
+Paid internet bill for the month,Bills
+Paid mobile bill for the month,Bills
+Paid water bill for the month,Bills
+Cleared pending electricity charges,Bills
+Cleared pending internet charges,Bills
+Cleared pending mobile charges,Bills
+Cleared pending water charges,Bills
+Completed payment for electricity using mobile app,Bills
+Completed payment for electricity using online service,Bills
+Completed payment for electricity using payment app,Bills
+Completed payment for internet using mobile app,Bills
+Completed payment for internet using online service,Bills
+Completed payment for internet using payment app,Bills
+Completed payment for mobile using mobile app,Bills
+Completed payment for mobile using online service,Bills
+Completed payment for mobile using payment app,Bills
+Completed payment for water using mobile app,Bills
+Completed payment for water using online service,Bills
+Completed payment for water using payment app,Bills
+Settled electricity dues,Bills
+Settled internet dues,Bills
+Settled mobile dues,Bills
+Settled water dues,Bills
+Monthly electricity bill payment,Bills
+Monthly internet bill payment,Bills
+Monthly mobile bill payment,Bills
+Monthly water bill payment,Bills
+Enrolled in a online course,Education
+Enrolled in a certification course,Education
+Enrolled in a training course,Education
+Paid fees for programming book,Education
+Paid fees for study material,Education
+Paid fees for learning platform,Education
+Purchased programming book for studies,Education
+Purchased study material for studies,Education
+Purchased learning platform for studies,Education
+Registered for online exam,Education
+Registered for certification exam,Education
+Registered for training exam,Education
+Subscribed to programming book platform,Education
+Subscribed to study material platform,Education
+Subscribed to learning platform platform,Education
+Bought clothes from local cafe,Shopping
+Bought clothes from restaurant,Shopping
+Bought clothes from food court,Shopping
+Bought clothes from office cafeteria,Shopping
+Bought shoes from local cafe,Shopping
+Bought shoes from restaurant,Shopping
+Bought shoes from food court,Shopping
+Bought shoes from office cafeteria,Shopping
+Bought electronics from local cafe,Shopping
+Bought electronics from restaurant,Shopping
+Bought electronics from food court,Shopping
+Bought electronics from office cafeteria,Shopping
+Bought household items from local cafe,Shopping
+Bought household items from restaurant,Shopping
+Bought household items from food court,Shopping
+Bought household items from office cafeteria,Shopping
+Purchased clothes during sale,Shopping
+Purchased shoes during sale,Shopping
+Purchased electronics during sale,Shopping
+Purchased household items during sale,Shopping
+Ordered clothes online,Shopping
+Ordered shoes online,Shopping
+Ordered electronics online,Shopping
+Ordered household items online,Shopping
+Shopping for clothes at local cafe,Shopping
+Shopping for clothes at restaurant,Shopping
+Shopping for clothes at food court,Shopping
+Shopping for clothes at office cafeteria,Shopping
+Shopping for shoes at local cafe,Shopping
+Shopping for shoes at restaurant,Shopping
+Shopping for shoes at food court,Shopping
+Shopping for shoes at office cafeteria,Shopping
+Shopping for electronics at local cafe,Shopping
+Shopping for electronics at restaurant,Shopping
+Shopping for electronics at food court,Shopping
+Shopping for electronics at office cafeteria,Shopping
+Shopping for household items at local cafe,Shopping
+Shopping for household items at restaurant,Shopping
+Shopping for household items at food court,Shopping
+Shopping for household items at office cafeteria,Shopping
+Picked up clothes for personal use,Shopping
+Picked up shoes for personal use,Shopping
+Picked up electronics for personal use,Shopping
+Picked up household items for personal use,Shopping
+Booked tickets for movie,Entertainment
+Booked tickets for concert,Entertainment
+Booked tickets for streaming service,Entertainment
+Booked tickets for gaming subscription,Entertainment
+Paid subscription for movie,Entertainment
+Paid subscription for concert,Entertainment
+Paid subscription for streaming service,Entertainment
+Paid subscription for gaming subscription,Entertainment
+Watched movie during weekend,Entertainment
+Watched concert during weekend,Entertainment
+Watched streaming service during weekend,Entertainment
+Watched gaming subscription during weekend,Entertainment
+Spent on movie via mobile app,Entertainment
+Spent on movie via online service,Entertainment
+Spent on movie via payment app,Entertainment
+Spent on concert via mobile app,Entertainment
+Spent on concert via online service,Entertainment
+Spent on concert via payment app,Entertainment
+Spent on streaming service via mobile app,Entertainment
+Spent on streaming service via online service,Entertainment
+Spent on streaming service via payment app,Entertainment
+Spent on gaming subscription via mobile app,Entertainment
+Spent on gaming subscription via online service,Entertainment
+Spent on gaming subscription via payment app,Entertainment
+Entertainment expense for movie,Entertainment
+Entertainment expense for concert,Entertainment
+Entertainment expense for streaming service,Entertainment
+Entertainment expense for gaming subscription,Entertainment
+Paid for doctor visit consultation,Medical
+Paid for medicines consultation,Medical
+Paid for health checkup consultation,Medical
+Paid for lab test consultation,Medical
+Bought doctor visit from pharmacy,Medical
+Bought medicines from pharmacy,Medical
+Bought health checkup from pharmacy,Medical
+Bought lab test from pharmacy,Medical
+Medical expense for doctor visit,Medical
+Medical expense for medicines,Medical
+Medical expense for health checkup,Medical
+Medical expense for lab test,Medical
+Visited hospital for doctor visit,Medical
+Visited hospital for medicines,Medical
+Visited hospital for health checkup,Medical
+Visited hospital for lab test,Medical
+Healthcare payment related to doctor visit,Medical
+Healthcare payment related to medicines,Medical
+Healthcare payment related to health checkup,Medical
+Healthcare payment related to lab test,Medical
+Spent money on gift purchase,Miscellaneous
+Spent money on donation,Miscellaneous
+Spent money on parking fine,Miscellaneous
+Spent money on festival expense,Miscellaneous
+Paid charges for gift purchase,Miscellaneous
+Paid charges for donation,Miscellaneous
+Paid charges for parking fine,Miscellaneous
+Paid charges for festival expense,Miscellaneous
+One time expense for gift purchase,Miscellaneous
+One time expense for donation,Miscellaneous
+One time expense for parking fine,Miscellaneous
+One time expense for festival expense,Miscellaneous
+Unexpected spending on gift purchase,Miscellaneous
+Unexpected spending on donation,Miscellaneous
+Unexpected spending on parking fine,Miscellaneous
+Unexpected spending on festival expense,Miscellaneous
+Miscellaneous payment related to gift purchase,Miscellaneous
+Miscellaneous payment related to donation,Miscellaneous
+Miscellaneous payment related to parking fine,Miscellaneous
+Miscellaneous payment related to festival expense,Miscellaneous
